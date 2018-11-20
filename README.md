@@ -1,3 +1,3 @@
 # 我的成长日记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+>记录我们的生活、学习点滴。
