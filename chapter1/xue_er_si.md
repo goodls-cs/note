@@ -19,12 +19,16 @@
  * 盈余量
 * 三种典型问题：
  * "盈盈问题"
+ ![](/assets/yingying.jpg)
  
+ * 盈亏问题
+ ![](/assets/yingkui.jpg)
  
- * "盈亏问题"
- 
- * "亏亏问题"
- 
+ * 亏亏问题
+![](/assets/kuikui.jpg) 
+
+ * 扩展（变定量总数、变份数....）
+![](/assets/yingkui_extend.jpg)
 
 
  
