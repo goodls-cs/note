@@ -14,3 +14,7 @@
 * [人文](wo-de-zhi-shi-shu/ren-wen.md)
 * [科学](wo-de-zhi-shi-shu/ke-xue.md)
 
+## 计划变化
+
+* [日程安排](ri-cheng-an-pai.md)
+
